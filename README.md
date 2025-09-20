@@ -48,7 +48,7 @@
 
 ## صورة توضيحية
 
-![To-Do List Screenshot](screenshot.png) *(يمكنك إضافة صورة شاشة للتطبيق هنا)*
+![To-Do List Screenshot](../to%20do%20list/img/img.png) *(يمكنك إضافة صورة شاشة للتطبيق هنا)*
 
 ---
 
